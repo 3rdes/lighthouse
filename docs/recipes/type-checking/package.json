@@ -7,6 +7,6 @@
   "devDependencies": {
     "lighthouse": "file:../../../dist/lighthouse.tgz",
     "typescript": "^4.9.4",
-    "puppeteer": "^19.5.2"
+    "puppeteer": "^22.13.1"
   }
 }
